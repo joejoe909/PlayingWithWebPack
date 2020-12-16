@@ -1,0 +1,17 @@
+@font-face{
+    font-family: 'Audiowide-Regular';
+    src: url('./Audiowide-Regular.ttf') format('truetype');
+    font-size: 100;
+    font-style: normal;
+}
+
+
+
+
+.hello{
+    color: red;
+    /* background: url('./somewherebackintimeeddie.jpg'); */
+    background-repeat: no-repeat;
+    font-family: 'Audiowide-Regular';
+    background-size: contain;
+}
